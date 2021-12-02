@@ -1,8 +1,4 @@
-### Hi there 👋
-
-### Hola! I'm Gyanendra 👋
-
-#### I am a software engineer with a strong focus in Full-stack Engineering and System Design. [Get in touch →](mailto:gyanendrak064@gmail.com)
+Hello! My name is Gyanendra Kumar Knojiya. React JS, Node JS, MongoDB, Firebase, and Electron JS are among my skills. For more information, check out my  [Linkedin profile](https://www.linkedin.com/in/gyanendraknojiya).
 
 ---------
 ### 2021 - Present
