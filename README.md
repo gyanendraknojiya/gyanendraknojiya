@@ -44,5 +44,7 @@ Hello! My name is Gyanendra Kumar Knojiya. React JS, Node JS, MongoDB, Firebase,
 
 -   **Goes to Saraswati Vidya Mandir Inter College**  
     High School (10th)
+    
+----------
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gyanendraknojiya&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendraknojiya" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyanendraknojiya&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendraknojiya" /> </p>
