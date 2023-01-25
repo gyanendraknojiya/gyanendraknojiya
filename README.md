@@ -1,5 +1,9 @@
 Hello! My name is Gyanendra Kumar Knojiya. React JS, Node JS, MongoDB, Firebase, and Electron JS are among my skills. For more information, check out my  [Linkedin profile](https://www.linkedin.com/in/gyanendraknojiya).
 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyanendraknojiya&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendraknojiya" /> </p>
+
+
 ---------
 ### 2021 - Present
 
@@ -45,6 +49,3 @@ Hello! My name is Gyanendra Kumar Knojiya. React JS, Node JS, MongoDB, Firebase,
 -   **Goes to Saraswati Vidya Mandir Inter College**  
     High School (10th)
     
-----------
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gyanendraknojiya&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendraknojiya" /> </p>
