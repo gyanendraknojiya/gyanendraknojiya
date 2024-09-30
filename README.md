@@ -6,9 +6,14 @@ Hello! My name is Gyanendra Kumar Knojiya. React JS, Node JS, MongoDB, Firebase,
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gyanendraknojiya&label=Profile%20views&color=0e75b6&style=flat" alt="gyanendraknojiya" /> </p>
 
+---------
+### 2023 - Present
+
+-   Joined  [P360](https://www.p360.com/)  as a Senior Software Engineer.
+-   Worked on the Zing app and Flash Card app.
 
 ---------
-### 2021 - Present
+### 2021 - 2023
 
 -   Joined  [Acuments Studio](https://acuments.com/)  as a Full-Stack Developer.
 -   Worked on Xeniapp, JollyHQ.
